@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.word.module7","l":"App"},{"p":"com.word.module7","l":"PrimaryController"},{"p":"com.word.module7","l":"WordFrequency"}];updateSearchResults();
